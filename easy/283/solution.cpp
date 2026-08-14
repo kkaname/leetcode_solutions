@@ -28,7 +28,7 @@ int main() {
 
   move_zeros(nums);
 
-  for (int i = 0; i < n; i++) cout << arr[i] << " ";
+  for (int i = 0; i < n; i++) cout << nums[i] << " ";
   cout << endl;
 
   return 0;
